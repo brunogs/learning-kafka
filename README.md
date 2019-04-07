@@ -37,3 +37,5 @@ consumerGroup
 
 //after type messages in producer terminal
 ```
+
+Spring example: https://www.baeldung.com/spring-kafka
